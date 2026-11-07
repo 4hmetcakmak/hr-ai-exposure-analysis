@@ -97,3 +97,7 @@ reports/tables/    ik_gorevleri.xlsx (tüm İK görevleri + "Benim yorumum")
 ```
 
 Kurallar: [CLAUDE.md](CLAUDE.md)
+
+## Lisans
+
+Kod: MIT (bkz. `LICENSE`). Veri: Anthropic Economic Index, CC-BY; bu repoda bulunmaz, kaynağı `data/README.md` içinde.
